@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hii there! My name is Umair Faheem. I'm currently doing my B.Tech in Computer Science. 
-🔭 My experience includes developing adaptive websites and designing prototypes.<br>💬 Ask me about Front end Web Development, C, C++ Language & DSA.
+Hii there! My name is Umair Faheem, a frontend developer from New Delhi, India. <br>
+I'm currently doing my B.Tech in Computer Science. <br>
+My experience includes developing adaptive websites and designing prototypes.<br>💬 Ask me about Front end Web Development, C, C++ Language & DSA.
 
 
 ## 🌐 Socials:
