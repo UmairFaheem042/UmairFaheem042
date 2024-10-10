@@ -10,7 +10,7 @@ Also into Artificial Intelligence & Machine Learning.🤖
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-faheem-b48765228) [![CodePen](https://img.shields.io/badge/CodePen-%23131417.svg?logo=codepen&logoColor=white)](https://codepen.io/yourusername) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourusername) [![Hashnode](https://img.shields.io/badge/Hashnode-%23000000.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@yourusername) [![LeetCode](https://img.shields.io/badge/LeetCode-%230769AD.svg?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-faheem-b48765228) [![CodePen](https://img.shields.io/badge/CodePen-%23131417.svg?logo=codepen&logoColor=white)](https://codepen.io/umairfaheem042) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/umair_faheem042) [![Hashnode](https://img.shields.io/badge/Hashnode-%23000000.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@umairfaheem042) [![LeetCode](https://img.shields.io/badge/LeetCode-%230769AD.svg?logo=leetcode&logoColor=white)](https://leetcode.com/umairfaheem42) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/umair_faheem)
 
 <br/>
 
