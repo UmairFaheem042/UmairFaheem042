@@ -3,9 +3,9 @@
 Hi there! I’m **Umair Faheem**, a Web & Data enthusiast 🌐 from New Delhi, India.  
 
 🎓 **Graduated in 2025** with a B.Tech in Computer Science & Engineering (AI & ML).  
-💼 **Currently a Trainee at Deloitte**, working in the Oracle domain.  
+💼 **Currently an Associate Analyst at Deloitte**, working in the Oracle domain.  
 
-💡 **Interests:** Web application development, data analysis, and data science/engineering.  
+💡 **Interests:** Web application development, DevOps, Data Analysis and Data Science.  
 
 I love building efficient web apps and exploring how data can solve real-world problems 🤖.
 
@@ -31,6 +31,14 @@ I love building efficient web apps and exploring how data can solve real-world p
 ### 🗄 Databases
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+### 🏗 Enterprise & Middleware
+
+![SOA](https://img.shields.io/badge/SOA-008000?style=for-the-badge\&logo=apache\&logoColor=white) ![Oracle Service Bus](https://img.shields.io/badge/OSB-FF0000?style=for-the-badge\&logo=oracle\&logoColor=white) ![MyST](https://img.shields.io/badge/MyST-2E86C1?style=for-the-badge)
+
+### 🚀 DevOps & Monitoring
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge\&logo=dynatrace\&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
 
 ### 📊 Data Science Libraries
 
