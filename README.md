@@ -1,11 +1,11 @@
 ## 💫 About Me
 
-Hi there! I’m **Umair Faheem**, a Web & Data enthusiast 🌐 from New Delhi, India.  
+Hi there! I’m **Umair Faheem** from New Delhi, India.  
 
 🎓 **Graduated in 2025** with a B.Tech in Computer Science & Engineering (AI & ML).  
 💼 **Currently an Associate Analyst at Deloitte**, working in the Oracle domain.  
 
-💡 **Interests:** Web application development, DevOps, Data Analysis and Data Science.  
+💡 **Interests:** Web Development, DevOps, Data Engineering and Data Science.  
 
 I love building efficient web apps and exploring how data can solve real-world problems 🤖.
 
