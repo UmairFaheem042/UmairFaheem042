@@ -56,4 +56,4 @@ I love building efficient web apps and exploring how data can solve real-world p
 
 ## 📊 GitHub Stats:
 
-<img alt="umairfaheem042" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairfaheem042&show_icons=true&locale=en&layout=compact" />
+![GitHub Streak](https://streak-stats.demolab.com?user=umairfaheem042&theme=tokyonight)
